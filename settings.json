@@ -1,0 +1,18 @@
+{
+	"OutputPath": "out",
+	"ImagesPath": "./assets/images/",
+	"BackgroundImage": "poster.png",
+	"FontsPath": "./assets/fonts/",
+	"Title": {
+		"Font": "ShadowsIntoLight.ttf",
+		"Size": 300,
+		"Color": "(254, 27, 28)",
+		"Position": "(100, 50)"
+	},
+	"Subtitle": {
+		"Font": "Satisfy.ttf",
+		"Size": 150,
+		"Color": "(85, 30, 138)",
+		"Position": "(100, 500)"
+	}
+}

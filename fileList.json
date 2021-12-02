@@ -1,0 +1,70 @@
+{
+  "Sample": {
+    "Title": "PosterMark",
+    "Subtitle": "Batch generate posters with custom text"
+  },
+  "00_Connect_to_build_server": {
+    "Title": "Chapter 0",
+    "Subtitle": "Connect to build server"
+  },
+  "01_Configure_TFS_server": {
+    "Title": "Chapter 1",
+    "Subtitle": "Configure TFS server"
+  },
+  "02_Build_Analytics": {
+    "Title": "Chapter 2",
+    "Subtitle": "Build Analytics"
+  },
+  "03_Publish_Analytics_web_and_services": {
+    "Title": "Chapter 3",
+    "Subtitle": "Publish Analytics web and services"
+  },
+  "04_Build_Admin": {
+    "Title": "Chapter 4",
+    "Subtitle": "Build Admin"
+  },
+  "05_Publish_Admin_web_and_services": {
+    "Title": "Chapter 5",
+    "Subtitle": "Publish Admin web and services"
+  },
+  "06_Build_Training": {
+    "Title": "Chapter 6",
+    "Subtitle": "Build Training"
+  },
+  "07_Publish_Training_web_and_services": {
+    "Title": "Chapter 7",
+    "Subtitle": "Publish Training web and services"
+  },
+  "08_Build_KRI_Engine": {
+    "Title": "Chapter 8",
+    "Subtitle": "Build KRI Engine"
+  },
+  "09_API": {
+    "Title": "Chapter 9",
+    "Subtitle": "API"
+  },
+  "10_Deployment_preparation_01": {
+    "Title": "Chapter 10",
+    "Subtitle": "Deployment preparation 01"
+  },
+  "11_Deployment_preparation_02": {
+    "Title": "Chapter 11",
+    "Subtitle": "Deployment preparation 02"
+  },
+  "12_Deploy_services": {
+    "Title": "Chapter 12",
+    "Subtitle": "Deploy services"
+  },
+  "13_Deploy_web": {
+    "Title": "Chapter 13",
+    "Subtitle": "Deploy web"
+  },
+  "14_Deploy_API": {
+    "Title": "Chapter 14",
+    "Subtitle": "Deploy API"
+  },
+  "15_Deploy_KRI_Engine": {
+    "Title": "Chapter 15",
+    "Subtitle": "Deploy KRI Engine"
+  }
+}
